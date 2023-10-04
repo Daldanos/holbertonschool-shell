@@ -1,18 +1,6 @@
-## Content Description
-* [Show Working Directory](#0-current_working_directory)
-* [Content of current directory](#1-listit)
-* [Return to user's Home directory](#2-bring_me_home)
-* [Content of current directory (long version)](#3-listfiles)
-* [Content of current directory (include hidden files)](#4-listmorefiles)
-* [Content of current directory (long, IDs numbers, hidden files)](#5-listfilesdigitonly)
-* [Creates a directory (my first directory) in tmp](#createdir)
-* [Move file betty from tmp to the new directory](#movefile)
-* [Delete betty file](#deletefile)
-* [Delete the new directory from previous point](#deletedir)
-* [Return to previous working directory](#returnprevious)
-* [List all files of current, parent and boot directory](#listall3)
-* [Print the type of the file iamafile located in tmp](#typefile)
-* [Creates a symbolic link to ls, named __ls__](#symbolicls)
-* [Copy all the html files from current working directory, but only copy files that did not exist](#copynewhtml)
-* [Moves all files that starts with uppercase to the directory /tmp/u](#movesupper)
-* [Delete all files that ends with ~](#deleteemacstemps)
+0-current_working_directory)
+1-listit
+2-bring_me_home
+3-listfiles
+4-listmorefiles
+5-listfilesdigitonly
